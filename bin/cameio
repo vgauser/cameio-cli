@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+
+'use strict';
+
+process.title = 'cameio';
+
+var Cameio = require('../lib/cameio').Cameio;
+
+Cameio.run();

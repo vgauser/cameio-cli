@@ -1,6 +1,6 @@
 {
   "name": "cameio",
-  "version": "0.0.1",
+  "version": "0.0.1b",
   "preferGlobal": true,
   "description": "A tool for creating and developing Cameio mobile apps.",
   "homepage": "http://came.io/",

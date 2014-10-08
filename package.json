@@ -1,8 +1,8 @@
 {
   "name": "cameio",
-  "version": "0.0.1b",
+  "version": "0.0.1c",
   "preferGlobal": true,
-  "description": "A tool for creating and developing Cameio mobile apps.",
+  "description": "Creating Apps More Easly",
   "homepage": "http://came.io/",
   "bin": {
     "cameio": "bin/cameio"
